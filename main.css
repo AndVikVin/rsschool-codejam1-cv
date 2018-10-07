@@ -1,3 +1,4 @@
+
 body {
     width: 1024px;
     margin: 0 auto;
@@ -27,7 +28,7 @@ h1 {
     position: relative;
     top: 35%;
     text-align: center;
-    font-size: 36px;
+    font-size: 42px;
     color: #fafafa;
 }
 
@@ -59,3 +60,90 @@ header li:nth-child(7){
     padding: 9px 2px;
 }
 
+main {
+    background-color: aliceblue;
+}
+
+main section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    padding-top: 5px;
+    padding-bottom:10px;
+    padding-left: 15px;
+    font-size: 30px;
+    border-bottom:2px solid grey;
+    
+    
+}
+
+h3 {
+    padding-top: 5px;
+    padding-bottom:10px;
+    padding-left: 15px;
+    font-size: 24px;
+}
+
+.description-paragraphe {
+    text-indent: 1.5em;
+    text-align: justify;
+}
+
+h4 {
+    padding-top: 5px;
+    padding-bottom:10px;
+    padding-left: 15px;
+    font-size: 18px;
+}
+
+main li {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+.character-li {
+    height: 100px;
+    margin-bottom: 5px;
+    line-height: 6em;
+    background-position: 25% 50%;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.character-li:nth-child(1){
+    background-image: url(purposeful.jpg);  
+}
+
+.character-li:nth-child(2){
+    background-image: url(responsible.jpg);
+}
+
+.character-li:nth-child(3){
+    background-image: url(honest.jpeg);
+}
+
+.character-li:nth-child(4){
+    background-image: url(motivated.jpg);
+}
+
+.character-li:nth-child(5){
+    background-image: url(active.jpg);
+}
+
+.character-li:nth-child(6){
+    background-image: url(positive.jpg);
+}
+
+.character-li:nth-child(7){
+    background-image: url(comunicative.jpg);
+}
+
+.character-li:nth-child(8){
+    background-image: url(creative.jpg);
+}
+
+.character-li:nth-child(9){
+    background-image: url(hardy.jpg);
+}
