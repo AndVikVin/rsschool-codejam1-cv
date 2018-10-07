@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-image: url(bridge.jpg);   
+    background-image: url(../pictures/bridge.jpg);   
 }
 
 img {
@@ -113,37 +113,37 @@ main li {
 }
 
 .character-li:nth-child(1){
-    background-image: url(purposeful.jpg);  
+    background-image: url(../pictures/purposeful.jpg);  
 }
 
 .character-li:nth-child(2){
-    background-image: url(responsible.jpg);
+    background-image: url(../pictures/responsible.jpg);
 }
 
 .character-li:nth-child(3){
-    background-image: url(honest.jpeg);
+    background-image: url(../pictures/honest.jpeg);
 }
 
 .character-li:nth-child(4){
-    background-image: url(motivated.jpg);
+    background-image: url(../pictures/motivated.jpg);
 }
 
 .character-li:nth-child(5){
-    background-image: url(active.jpg);
+    background-image: url(../pictures/active.jpg);
 }
 
 .character-li:nth-child(6){
-    background-image: url(positive.jpg);
+    background-image: url(../pictures/positive.jpg);
 }
 
 .character-li:nth-child(7){
-    background-image: url(comunicative.jpg);
+    background-image: url(../pictures/comunicative.jpg);
 }
 
 .character-li:nth-child(8){
-    background-image: url(creative.jpg);
+    background-image: url(../pictures/creative.jpg);
 }
 
 .character-li:nth-child(9){
-    background-image: url(hardy.jpg);
+    background-image: url(../pictures/hardy.jpg);
 }
